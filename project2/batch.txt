@@ -1,0 +1,4 @@
+ls
+mkdir newfolder
+cd newfolder
+exit
